@@ -4,10 +4,10 @@ Special crafted Powershell Scripts to do a lot of things
 
 ## Scripts
 #### Web
-- [InstagramDownloader](#InstagramDownloader)
+- [InstagramDownloader](instagramdownloader)
  
 #### Windows
-- [checkIsAdmin](#checkIsAdmin)
+- [checkIsAdmin](checkisadmin)
 - Check-WindowsFeature
 - Get-FileEncoding
 - UpdatePowerShell
